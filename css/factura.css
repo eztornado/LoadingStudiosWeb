@@ -1,0 +1,16 @@
+ #parte_arriba
+ {
+     float : left;
+     width: 100%;
+ }
+ #logo
+ {
+     float : left;
+ }
+ #titulo_factura
+ {
+     float : left;
+     font-family: 'Montserrat', sans-serif;
+     font-size: 24px;
+     color: black;
+ }

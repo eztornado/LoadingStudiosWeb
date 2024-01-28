@@ -1,0 +1,105 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06-dic-2014, 11:37:27
+    Author     : ivan
+*/
+
+
+#logo {
+/* box-shadow: 0px 0px 16px white; */
+box-shadow: -3px 0px 9px #5C5757;
+padding: 7px 13px 1px 13px;
+border-radius: 8px;
+float: left;
+position: fixed;
+z-index: 50;
+margin-left: -7px;
+margin-top: -7px;
+background-color: white;
+}
+
+header {
+/* border-bottom: 1px solid #D0D0D0; */
+width: 100%;
+position: fixed;
+z-index: 30;
+float: left;
+height: 54px;
+background: #fcfcfc;
+margin-top: -7px;
+}
+
+* {
+margin: 0;
+padding: 0;
+}
+body .body bodylogin {
+    margin-top: -53px;
+}
+
+header nav ul li a:link {
+text-decoration: none;
+}
+
+header nav ul li a {
+color: black;
+padding: 14px;
+font-size: 16px;
+font-weight:normal !important;
+display: block;
+text-decoration: none;
+}
+
+header nav ul li a:hover {
+background: #cfd8dc;
+}
+.menu_bar {
+display: none;
+}
+
+header nav {
+width: 100%;
+background: white;
+box-shadow: 5px 0px 5px #5C5757;
+}
+
+header nav ul {
+margin-left: 158px;
+margin-top: 8px;
+
+}
+
+header nav ul li {
+float: left;
+}
+
+body {
+background-size: 100% 100%;
+width: 100%;
+height: 100%;
+color: white;
+margin: 0px;
+background-color: rgb(240, 240, 240);
+}
+
+footer2 {
+margin-left: 22%;
+font-size: 11px;
+color:white;
+margin-bottom: 10px;
+margin-right: 4%;
+padding: 1px 16% 0px 0px;
+/* position: fixed; */
+}
+        @media screen and (max-width:799px)
+        {
+
+                        div.botonsecundario                        {
+                            visibility:hidden;
+                            display:none;
+                        }
+        }
