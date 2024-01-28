@@ -4,14 +4,14 @@
 
                 
                                 	<!-- Start cssSlider.com -->
-	<link rel="stylesheet" href="https://www.loadingstudios.net/images/engine1/style.css">
-        <link rel="stylesheet" href="https://www.loadingstudios.net/css/galeria/estilo.css">
+	<link rel="stylesheet" href="https://loadingstudios.archive.tornadocore.es/images/engine1/style.css">
+        <link rel="stylesheet" href="https://loadingstudios.archive.tornadocore.es/css/galeria/estilo.css">
 	<!--[if IE]><link rel="stylesheet" href="../images/engine1/ie.css"><![endif]-->
 	<!--[if lte IE 9]><script type="text/javascript" src="../images/engine1/ie.js"></script><![endif]-->
 
                <div id="div_video_inicio">
-               <video autoplay loop poster="https://www.loadingstudios.net/images/carga.jpg" id="bgvid">
-               <source src="https://www.loadingstudios.net/images/cabecera.webm" type="video/webm">
+               <video autoplay loop poster="https://loadingstudios.archive.tornadocore.es/images/carga.jpg" id="bgvid">
+               <source src="https://loadingstudios.archive.tornadocore.es/images/cabecera.webm" type="video/webm">
                </video>
                </div>
                 
@@ -80,9 +80,9 @@
         <div id="cookies"><div id="cookntenido">Este sitio utiliza cookies. Las cookies nos permiten ofrecer nuestros servicios. <a href="../inicio/insertar_cookies/">Entiendo</a></div></div>
 
         <div id="fila3">
-            <a href="https://www.loadingstudios.net/inicio/privacidad" >Politica de privacidad</a>
-            <a href="https://www.loadingstudios.net/contacto/" >Localización</a>
-            <a href="https://www.loadingstudios.net/inicio/quienes_somos/" >¿Quienes Somos?</a> 
+            <a href="https://loadingstudios.archive.tornadocore.es/inicio/privacidad" >Politica de privacidad</a>
+            <a href="https://loadingstudios.archive.tornadocore.es/contacto/" >Localización</a>
+            <a href="https://loadingstudios.archive.tornadocore.es/inicio/quienes_somos/" >¿Quienes Somos?</a> 
         <a id="icono_social"href="#" > <i class="fa fa-google-plus-square fa-2x"></i></a>
         <a id="icono_social" href="#" > <i class="fa fa-twitter-square fa-2x"></i></a>
         <a id="icono_social"href="#" > <i class="fa fa-facebook-square fa-2x"></i></a>

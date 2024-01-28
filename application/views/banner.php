@@ -29,7 +29,7 @@
                     ?>                     
 		
 		</ul>
-		<a class="cs_lnk" href="http://www.loadingstudios.net">LoadingStudios.net</a>
+		<a class="cs_lnk" href="http://https://loadingstudios.archive.tornadocore.es">LoadingStudios.net</a>
 		<div class='cs_description'>
                     <?php
                     $i = 0;

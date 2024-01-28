@@ -16,7 +16,7 @@
                 <i class="fa fa-chevron-right"></i> Ideas claras de nuestro trabajo: otra importante función de utilizar un video corporativo, es mostrarle a los usuarios que hacemos y porque lo hacemos así como las ventajas de utilizar nuestros productos o servicios en su empresa.</br>
 
                             <i class="fa fa-chevron-right"></i>  Costos mínimos: al exponer nuestros videos corporativos en redes sociales y en el ciberespacio logramos un ahorro importante de recursos económicos lo que representa una importante solución para empresa que van comenzando o no tiene los recursos necesarios.</htitulo2>
-                            <a href="https://www.loadingstudios.net/inicio/contratar_servicios/" class="button blue large">
+                            <a href="https://loadingstudios.archive.tornadocore.es/inicio/contratar_servicios/" class="button blue large">
                                 <i class="fa fa-shopping-cart"></i>  Pedir Presupuesto</a>
 
                 
@@ -60,9 +60,9 @@
         </div>
 
         <div id="fila3">
-            <a href="https://www.loadingstudios.net/inicio/privacidad" >Politica de privacidad</a>
-            <a href="https://www.loadingstudios.net/contacto/" >Localización</a>
-            <a href="https://www.loadingstudios.net/inicio/quienes_somos/" >¿Quienes Somos?</a> 
+            <a href="https://loadingstudios.archive.tornadocore.es/inicio/privacidad" >Politica de privacidad</a>
+            <a href="https://loadingstudios.archive.tornadocore.es/contacto/" >Localización</a>
+            <a href="https://loadingstudios.archive.tornadocore.es/inicio/quienes_somos/" >¿Quienes Somos?</a> 
         <a id="icono_social"href="#" > <i class="fa fa-google-plus-square fa-2x"></i></a>
         <a id="icono_social" href="#" > <i class="fa fa-twitter-square fa-2x"></i></a>
         <a id="icono_social"href="#" > <i class="fa fa-facebook-square fa-2x"></i></a>

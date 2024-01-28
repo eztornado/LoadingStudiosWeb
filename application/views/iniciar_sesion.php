@@ -8,12 +8,12 @@
         <?php 
         if($detect->isMobile())
         {
-        echo('<body style="background-image:url(\'https://www.loadingstudios.net/images/inicio_movil.jpg\');margin: auto; text-align: center;">');
+        echo('<body style="background-image:url(\'https://loadingstudios.archive.tornadocore.es/images/inicio_movil.jpg\');margin: auto; text-align: center;">');
         echo('<div class="contenido_movil"></br></br></br>');
         }
         else
         {
-        echo('<body style="background-image:url(\'https://www.loadingstudios.net/images/back_iniciosesion.jpg\'); margin: auto; text-align: center;">');
+        echo('<body style="background-image:url(\'https://loadingstudios.archive.tornadocore.es/images/back_iniciosesion.jpg\'); margin: auto; text-align: center;">');
         echo('<div  class="contenido">');
         }?>
         <div id="contenido2_izquierda" class="contenido2">
@@ -41,7 +41,7 @@
 
 <div id="contenido2_derecha" class="contenido2">
 </br></br>'
-<img src="https://www.loadingstudios.net/images/untitled.png" width="124px" height="62px">
+<img src="https://loadingstudios.archive.tornadocore.es/images/untitled.png" width="124px" height="62px">
 </br></br>
 <p2>En LoadingStudios.net tenemos un panel de control donde nuestros clientes tendrán un control de sus productos contratados además de un soporte 24/7 por tickets cercano y personal.</p2>
             

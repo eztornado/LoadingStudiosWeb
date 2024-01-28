@@ -24,9 +24,9 @@
 </br></br>
     <footer>
 
-                                <img src="https://www.loadingstudios.net/images/facebook.png" width="26px" height="26px">
-                            <img src="https://www.loadingstudios.net/images/twitter.png" width="26px" height="26px">
-                            <img src="https://www.loadingstudios.net/images/google.png" width="26px" height="26px">  
+                                <img src="https://loadingstudios.archive.tornadocore.es/images/facebook.png" width="26px" height="26px">
+                            <img src="https://loadingstudios.archive.tornadocore.es/images/twitter.png" width="26px" height="26px">
+                            <img src="https://loadingstudios.archive.tornadocore.es/images/google.png" width="26px" height="26px">  
                                     <a href="#" >¿Quienes Somos?</a> 
         <a href="#" >Localización</a> 
         <a href="#" >Politica de privacidad</a>
@@ -39,15 +39,15 @@
         var producto = $('input[name=producto]:radio:checked').val();
         
         if(producto === "musica")
-        $("#respuesta_ajax").load("https://www.loadingstudios.net/inicio/contratar_calcular/prod/musica");
+        $("#respuesta_ajax").load("https://loadingstudios.archive.tornadocore.es/inicio/contratar_calcular/prod/musica");
         if(producto === "video")
-        $("#respuesta_ajax").load("https://www.loadingstudios.net/inicio/contratar_calcular/prod/video");
+        $("#respuesta_ajax").load("https://loadingstudios.archive.tornadocore.es/inicio/contratar_calcular/prod/video");
         if(producto === "logo")
-        $("#respuesta_ajax").load("https://www.loadingstudios.net/inicio/contratar_calcular/prod/logo");
+        $("#respuesta_ajax").load("https://loadingstudios.archive.tornadocore.es/inicio/contratar_calcular/prod/logo");
         if(producto === "web")
-        $("#respuesta_ajax").load("https://www.loadingstudios.net/inicio/contratar_calcular/prod/web");
+        $("#respuesta_ajax").load("https://loadingstudios.archive.tornadocore.es/inicio/contratar_calcular/prod/web");
         if(producto === "banner")
-        $("#respuesta_ajax").load("https://www.loadingstudios.net/inicio/contratar_calcular/prod/banner");    
+        $("#respuesta_ajax").load("https://loadingstudios.archive.tornadocore.es/inicio/contratar_calcular/prod/banner");    
     });     
      
 

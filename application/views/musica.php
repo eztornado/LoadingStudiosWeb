@@ -20,7 +20,7 @@
                 <i class="fa fa-chevron-right"></i>  Captar la atención del consumidor y despertar su interés hacia el mensaje.</br>
 
                 <i class="fa fa-chevron-right"></i>  Facilitar la discriminación del público objetivo.</htitulo2>
-                <a href="https://www.loadingstudios.net/inicio/contratar_servicios/" class="button orange large">
+                <a href="https://loadingstudios.archive.tornadocore.es/inicio/contratar_servicios/" class="button orange large">
                                 <i class="fa fa-shopping-cart"></i>  Pedir Presupuesto</a>
  
             
@@ -59,9 +59,9 @@
         </div>
 
         <div id="fila3">
-            <a href="https://www.loadingstudios.net/inicio/privacidad" >Politica de privacidad</a>
-            <a href="https://www.loadingstudios.net/contacto/" >Localización</a>
-            <a href="https://www.loadingstudios.net/inicio/quienes_somos/" >¿Quienes Somos?</a> 
+            <a href="https://loadingstudios.archive.tornadocore.es/inicio/privacidad" >Politica de privacidad</a>
+            <a href="https://loadingstudios.archive.tornadocore.es/contacto/" >Localización</a>
+            <a href="https://loadingstudios.archive.tornadocore.es/inicio/quienes_somos/" >¿Quienes Somos?</a> 
         <a id="icono_social"href="#" > <i class="fa fa-google-plus-square fa-2x"></i></a>
         <a id="icono_social" href="#" > <i class="fa fa-twitter-square fa-2x"></i></a>
         <a id="icono_social"href="#" > <i class="fa fa-facebook-square fa-2x"></i></a>
